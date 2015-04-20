@@ -1,0 +1,15 @@
+{
+    "name": "goldenapples/fusion-plugin-scaffold",
+    "description": "Generates skeleton code for a WordPress plugin following Fusion engineering team's style guidelines",
+    "license": "GPL v3",
+    "authors": [
+        {
+            "name": "Nathaniel Taintor",
+            "email": "goldenapplesdesign@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+      "files": [ "wp-cli-fusion-plugin-scaffold-command.php" ]
+    }
+}
